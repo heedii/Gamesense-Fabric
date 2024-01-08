@@ -1,4 +1,4 @@
-package com.example;
+package com.gamesense.client;
 
 import net.fabricmc.api.ClientModInitializer;
 
